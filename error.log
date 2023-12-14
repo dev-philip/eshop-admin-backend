@@ -1,0 +1,85 @@
+[31merror[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-01T05:23:14.466Z"}
+[31merror[39m: This is an error message. {"timestamp":"2023-12-01T05:23:35.093Z"}
+[31merror[39m: Error creating user: Cannot read properties of undefined (reading 'getPool') {"stack":"TypeError: Cannot read properties of undefined (reading 'getPool')\n    at Function.<anonymous> (C:\\Users\\olami\\OneDrive\\Desktop\\fastworkshopproject\\eshop-admin-backend\\src\\models\\AdminUser.ts:23:69)\n    at Generator.next (<anonymous>)\n    at C:\\Users\\olami\\OneDrive\\Desktop\\fastworkshopproject\\eshop-admin-backend\\src\\models\\AdminUser.ts:8:71\n    at new Promise (<anonymous>)\n    at __awaiter (C:\\Users\\olami\\OneDrive\\Desktop\\fastworkshopproject\\eshop-admin-backend\\src\\models\\AdminUser.ts:4:12)\n    at Function.create (C:\\Users\\olami\\OneDrive\\Desktop\\fastworkshopproject\\eshop-admin-backend\\src\\models\\AdminUser.ts:24:16)\n    at C:\\Users\\olami\\OneDrive\\Desktop\\fastworkshopproject\\eshop-admin-backend\\src\\controllers\\AdminUserController.ts:21:41\n    at Generator.next (<anonymous>)\n    at C:\\Users\\olami\\OneDrive\\Desktop\\fastworkshopproject\\eshop-admin-backend\\src\\controllers\\AdminUserController.ts:8:71\n    at new Promise (<anonymous>)","timestamp":"2023-12-02 2:40:56 PM"}
+[31merror[39m: Error creating user: Column count doesn't match value count at row 1 {"code":"ER_WRONG_VALUE_COUNT_ON_ROW","errno":1136,"sql":"INSERT INTO admin_users (firstName, lastName, email, password) VALUES (?, ?)","sqlMessage":"Column count doesn't match value count at row 1","sqlState":"21S01","stack":"Error: Column count doesn't match value count at row 1\n    at PromisePool.execute (C:\\Users\\olami\\OneDrive\\Desktop\\fastworkshopproject\\eshop-admin-backend\\node_modules\\mysql2\\promise.js:374:22)\n    at Function.<anonymous> (C:\\Users\\olami\\OneDrive\\Desktop\\fastworkshopproject\\eshop-admin-backend\\src\\models\\AdminUser.ts:17:46)\n    at Generator.next (<anonymous>)\n    at fulfilled (C:\\Users\\olami\\OneDrive\\Desktop\\fastworkshopproject\\eshop-admin-backend\\src\\models\\AdminUser.ts:5:58)","timestamp":"2023-12-02 4:22:44 PM"}
+[31merror[39m: Error finding user: User not found. No result or empty result array {"timestamp":"2023-12-02 5:23:15 PM"}
+[31merror[39m: Error finding user: User not found. No result or empty result array {"timestamp":"2023-12-02 5:23:30 PM"}
+[31merror[39m: Error finding user : User not found. No result or empty result array {"timestamp":"2023-12-03 4:02:23 PM"}
+[31merror[39m: Error finding user : User not found. No result or empty result array {"timestamp":"2023-12-03 4:02:38 PM"}
+[31merror[39m: User with this email already exists {"timestamp":"2023-12-04 8:52:39 AM"}
+[31merror[39m: User with this email already exists {"timestamp":"2023-12-04 8:55:01 AM"}
+[31merror[39m: Error creating user: No result or empty result array {"timestamp":"2023-12-04 8:59:01 AM"}
+[31merror[39m: User with this email already exists {"timestamp":"2023-12-04 8:59:31 AM"}
+[31merror[39m: User with this email already exists {"timestamp":"2023-12-04 9:02:45 AM"}
+[31merror[39m: User with this email already exists {"timestamp":"2023-12-04 9:03:10 AM"}
+[31merror[39m: User with this email already exists {"timestamp":"2023-12-04 9:03:42 AM"}
+[31merror[39m: User with this email already exists {"timestamp":"2023-12-04 9:07:31 AM"}
+[31merror[39m: User with this email already exists {"timestamp":"2023-12-04 9:08:21 AM"}
+[31merror[39m: User with this email already exists {"timestamp":"2023-12-04 9:22:59 AM"}
+[31merror[39m: User with this email already exists {"timestamp":"2023-12-04 9:23:23 AM"}
+[31merror[39m: User with this email already exists {"timestamp":"2023-12-04 9:27:02 AM"}
+[31merror[39m: User with this email already exists {"timestamp":"2023-12-04 9:27:04 AM"}
+[31merror[39m: User with this email already exists {"timestamp":"2023-12-04 9:27:18 AM"}
+[31merror[39m: User with this email already exists {"timestamp":"2023-12-04 9:55:13 AM"}
+[31merror[39m: User with this email already exists {"timestamp":"2023-12-04 9:56:27 AM"}
+[31merror[39m: User with this email already exists {"timestamp":"2023-12-04 9:56:47 AM"}
+[31merror[39m: User with this email already exists {"timestamp":"2023-12-04 9:57:09 AM"}
+[31merror[39m: User with this email already exists {"timestamp":"2023-12-04 9:57:24 AM"}
+[31merror[39m: User with this email already exists {"timestamp":"2023-12-04 9:59:11 AM"}
+[31merror[39m: User with this email already exists {"timestamp":"2023-12-04 10:02:20 AM"}
+[31merror[39m: User with this email already exists {"timestamp":"2023-12-04 10:02:26 AM"}
+[31merror[39m: User with this email already exists {"timestamp":"2023-12-04 10:02:34 AM"}
+[31merror[39m: User with this email already exists {"timestamp":"2023-12-04 10:12:18 AM"}
+[31merror[39m: Error finding user : User not found. No result or empty result array {"timestamp":"2023-12-04 12:14:46 PM"}
+[31merror[39m: Error finding user : User not found. No result or empty result array {"timestamp":"2023-12-04 12:15:58 PM"}
+[31merror[39m: Error finding user : User not found. No result or empty result array {"timestamp":"2023-12-04 12:17:01 PM"}
+[31merror[39m: Error finding user : User not found. No result or empty result array {"timestamp":"2023-12-04 12:17:07 PM"}
+[31merror[39m: Error finding user : User not found. No result or empty result array {"timestamp":"2023-12-04 12:41:41 PM"}
+[31merror[39m: Error finding user : User not found. No result or empty result array {"timestamp":"2023-12-04 1:04:55 PM"}
+[31merror[39m: Error finding user : User not found. No result or empty result array {"timestamp":"2023-12-08 3:51:30 PM"}
+[31merror[39m: Error finding user : User not found. No result or empty result array {"timestamp":"2023-12-11 7:58:22 PM"}
+[31merror[39m: Duplicate category: No result or empty result array {"timestamp":"2023-12-11 8:49:37 PM"}
+[31merror[39m: Duplicate category: No result or empty result array {"timestamp":"2023-12-11 8:50:05 PM"}
+[31merror[39m: Duplicate category: No result or empty result array {"timestamp":"2023-12-11 8:51:16 PM"}
+[31merror[39m: Duplicate category: No result or empty result array {"timestamp":"2023-12-11 8:51:22 PM"}
+[31merror[39m: Duplicate category: No result or empty result array {"timestamp":"2023-12-11 9:01:05 PM"}
+[31merror[39m: Duplicate category: No result or empty result array {"timestamp":"2023-12-11 9:01:10 PM"}
+[31merror[39m: Duplicate category: No result or empty result array {"timestamp":"2023-12-11 9:01:11 PM"}
+[31merror[39m: Duplicate category: No result or empty result array {"timestamp":"2023-12-11 9:01:19 PM"}
+[31merror[39m: Duplicate category: No result or empty result array {"timestamp":"2023-12-11 9:04:32 PM"}
+[31merror[39m: Duplicate category: No result or empty result array {"timestamp":"2023-12-11 9:04:36 PM"}
+[31merror[39m: Duplicate category: No result or empty result array {"timestamp":"2023-12-11 9:04:52 PM"}
+[31merror[39m: Duplicate category: No result or empty result array {"timestamp":"2023-12-11 9:04:56 PM"}
+[31merror[39m: Duplicate category: No result or empty result array {"timestamp":"2023-12-11 9:05:06 PM"}
+[31merror[39m: Duplicate category: No result or empty result array {"timestamp":"2023-12-11 9:05:10 PM"}
+[31merror[39m: Duplicate category: No result or empty result array {"timestamp":"2023-12-11 9:05:22 PM"}
+[31merror[39m: Duplicate category: No result or empty result array {"timestamp":"2023-12-11 9:05:55 PM"}
+[31merror[39m: Duplicate category: No result or empty result array {"timestamp":"2023-12-11 9:06:04 PM"}
+[31merror[39m: Duplicate category: No result or empty result array {"timestamp":"2023-12-11 9:34:54 PM"}
+[31merror[39m: Duplicate category: No result or empty result array {"timestamp":"2023-12-11 9:35:05 PM"}
+[31merror[39m: Duplicate category: No result or empty result array {"timestamp":"2023-12-11 9:35:12 PM"}
+[31merror[39m: Duplicate category: No result or empty result array {"timestamp":"2023-12-11 9:35:44 PM"}
+[31merror[39m: Duplicate category: No result or empty result array {"timestamp":"2023-12-11 9:36:15 PM"}
+[31merror[39m: Duplicate category: No result or empty result array {"timestamp":"2023-12-11 9:36:30 PM"}
+[31merror[39m: Duplicate category: No result or empty result array {"timestamp":"2023-12-11 9:36:40 PM"}
+[31merror[39m: Duplicate category: No result or empty result array {"timestamp":"2023-12-11 9:42:03 PM"}
+[31merror[39m: Duplicate category: No result or empty result array {"timestamp":"2023-12-11 9:42:10 PM"}
+[31merror[39m: Duplicate category: No result or empty result array {"timestamp":"2023-12-11 10:21:11 PM"}
+[31merror[39m: Duplicate category: No result or empty result array {"timestamp":"2023-12-11 10:21:13 PM"}
+[31merror[39m: Duplicate category: No result or empty result array {"timestamp":"2023-12-11 11:37:41 PM"}
+[31merror[39m: Duplicate category: No result or empty result array {"timestamp":"2023-12-11 11:37:44 PM"}
+[31merror[39m: Duplicate category: No result or empty result array {"timestamp":"2023-12-11 11:44:50 PM"}
+[31merror[39m: Error Updating category (/admin/edit/category): Bind parameters must not contain undefined. To pass SQL NULL specify JS null {"stack":"Error: Bind parameters must not contain undefined. To pass SQL NULL specify JS null\n    at PromisePool.execute (C:\\Users\\olami\\OneDrive\\Desktop\\fastworkshopproject\\eshop-admin-backend\\node_modules\\mysql2\\promise.js:374:22)\n    at Function.<anonymous> (C:\\Users\\olami\\OneDrive\\Desktop\\fastworkshopproject\\eshop-admin-backend\\src\\models\\Category.ts:119:45)\n    at Generator.next (<anonymous>)\n    at C:\\Users\\olami\\OneDrive\\Desktop\\fastworkshopproject\\eshop-admin-backend\\src\\models\\Category.ts:8:71\n    at new Promise (<anonymous>)\n    at __awaiter (C:\\Users\\olami\\OneDrive\\Desktop\\fastworkshopproject\\eshop-admin-backend\\src\\models\\Category.ts:4:12)\n    at Function.editCategory (C:\\Users\\olami\\OneDrive\\Desktop\\fastworkshopproject\\eshop-admin-backend\\src\\models\\Category.ts:112:16)\n    at C:\\Users\\olami\\OneDrive\\Desktop\\fastworkshopproject\\eshop-admin-backend\\src\\controllers\\categoryController.ts:90:53\n    at Generator.next (<anonymous>)\n    at fulfilled (C:\\Users\\olami\\OneDrive\\Desktop\\fastworkshopproject\\eshop-admin-backend\\src\\controllers\\categoryController.ts:5:58)","timestamp":"2023-12-12 12:03:12 AM"}
+[31merror[39m: Duplicate category: No result or empty result array {"timestamp":"2023-12-12 12:12:16 AM"}
+[31merror[39m: Error finding user : User not found. No result or empty result array {"timestamp":"2023-12-12 9:50:01 PM"}
+[31merror[39m: Error fetching admin users: Table 'eshop_ecommerce.product_category' doesn't exist {"code":"ER_NO_SUCH_TABLE","errno":1146,"sql":"SELECT * FROM product_category","sqlMessage":"Table 'eshop_ecommerce.product_category' doesn't exist","sqlState":"42S02","stack":"Error: Table 'eshop_ecommerce.product_category' doesn't exist\n    at PromisePool.execute (C:\\Users\\olami\\OneDrive\\Desktop\\fastworkshopproject\\eshop-admin-backend\\node_modules\\mysql2\\promise.js:374:22)\n    at Function.<anonymous> (C:\\Users\\olami\\OneDrive\\Desktop\\fastworkshopproject\\eshop-admin-backend\\src\\models\\Category.ts:34:50)\n    at Generator.next (<anonymous>)\n    at C:\\Users\\olami\\OneDrive\\Desktop\\fastworkshopproject\\eshop-admin-backend\\src\\models\\Category.ts:8:71\n    at new Promise (<anonymous>)\n    at __awaiter (C:\\Users\\olami\\OneDrive\\Desktop\\fastworkshopproject\\eshop-admin-backend\\src\\models\\Category.ts:4:12)\n    at Function.getallCategory (C:\\Users\\olami\\OneDrive\\Desktop\\fastworkshopproject\\eshop-admin-backend\\src\\models\\Category.ts:36:16)\n    at C:\\Users\\olami\\OneDrive\\Desktop\\fastworkshopproject\\eshop-admin-backend\\src\\controllers\\categoryController.ts:30:48\n    at Generator.next (<anonymous>)\n    at C:\\Users\\olami\\OneDrive\\Desktop\\fastworkshopproject\\eshop-admin-backend\\src\\controllers\\categoryController.ts:8:71","timestamp":"2023-12-12 9:51:30 PM"}
+[31merror[39m: Error fetching admin users: Table 'eshop_ecommerce.product_category' doesn't exist {"code":"ER_NO_SUCH_TABLE","errno":1146,"sql":"SELECT * FROM product_category","sqlMessage":"Table 'eshop_ecommerce.product_category' doesn't exist","sqlState":"42S02","stack":"Error: Table 'eshop_ecommerce.product_category' doesn't exist\n    at PromisePool.execute (C:\\Users\\olami\\OneDrive\\Desktop\\fastworkshopproject\\eshop-admin-backend\\node_modules\\mysql2\\promise.js:374:22)\n    at Function.<anonymous> (C:\\Users\\olami\\OneDrive\\Desktop\\fastworkshopproject\\eshop-admin-backend\\src\\models\\Category.ts:34:50)\n    at Generator.next (<anonymous>)\n    at C:\\Users\\olami\\OneDrive\\Desktop\\fastworkshopproject\\eshop-admin-backend\\src\\models\\Category.ts:8:71\n    at new Promise (<anonymous>)\n    at __awaiter (C:\\Users\\olami\\OneDrive\\Desktop\\fastworkshopproject\\eshop-admin-backend\\src\\models\\Category.ts:4:12)\n    at Function.getallCategory (C:\\Users\\olami\\OneDrive\\Desktop\\fastworkshopproject\\eshop-admin-backend\\src\\models\\Category.ts:36:16)\n    at C:\\Users\\olami\\OneDrive\\Desktop\\fastworkshopproject\\eshop-admin-backend\\src\\controllers\\categoryController.ts:30:48\n    at Generator.next (<anonymous>)\n    at C:\\Users\\olami\\OneDrive\\Desktop\\fastworkshopproject\\eshop-admin-backend\\src\\controllers\\categoryController.ts:8:71","timestamp":"2023-12-12 9:51:30 PM"}
+[31merror[39m: Error finding user : User not found. No result or empty result array {"timestamp":"2023-12-13 2:17:37 AM"}
+[31merror[39m: Error finding user : User not found. No result or empty result array {"timestamp":"2023-12-13 2:23:43 AM"}
+[31merror[39m: Error finding user : User not found. No result or empty result array {"timestamp":"2023-12-13 2:27:04 AM"}
+[31merror[39m: Error finding user : User not found. No result or empty result array {"timestamp":"2023-12-13 2:37:25 AM"}
+[31merror[39m: Error finding user : User not found. No result or empty result array {"timestamp":"2023-12-13 2:38:56 AM"}
+[31merror[39m: Error finding user : User not found. No result or empty result array {"timestamp":"2023-12-13 2:39:02 AM"}
+[31merror[39m: Error finding user : User not found. No result or empty result array {"timestamp":"2023-12-13 2:39:37 AM"}
+[31merror[39m: Error finding user : User not found. No result or empty result array {"timestamp":"2023-12-13 2:39:43 AM"}
+[31merror[39m: Error finding user : User not found. No result or empty result array {"timestamp":"2023-12-13 2:39:49 AM"}

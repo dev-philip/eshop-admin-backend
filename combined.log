@@ -1,0 +1,312 @@
+{"level":"info","message":"Server listening at http://localhost:5656 and 192.168.56.1:5656","timestamp":"2023-12-01T05:21:28.065Z"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-01T05:22:45.534Z"}
+[31merror[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-01T05:23:14.466Z"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-01T05:23:35.089Z"}
+[31merror[39m: This is an error message. {"timestamp":"2023-12-01T05:23:35.093Z"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-01T05:23:53.182Z"}
+[33mwarn[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-01T05:26:29.754Z"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-01T05:26:37.040Z"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-01T05:28:14.365Z"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-01 00:28:50"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-01 00:29:17"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-01 12:31:21 AM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-01 12:33:52 AM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-01 12:34:12 AM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-01 12:34:53 AM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-01 12:45:09 AM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-01 12:45:23 AM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-01 12:48:01 AM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-01 12:48:57 AM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-01 12:50:09 AM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-01 12:51:11 AM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-01 12:52:16 AM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-01 12:54:17 AM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-01 12:55:00 AM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-01 12:57:19 AM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-01 12:57:39 AM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-01 12:58:29 AM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-01 1:08:29 AM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-02 1:53:23 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-02 1:54:09 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-02 1:55:12 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-02 1:56:11 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-02 1:56:29 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-02 1:56:53 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-02 2:04:59 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-02 2:15:24 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-02 2:15:54 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-02 2:32:54 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-02 2:36:27 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-02 2:40:53 PM"}
+[31merror[39m: Error creating user: Cannot read properties of undefined (reading 'getPool') {"stack":"TypeError: Cannot read properties of undefined (reading 'getPool')\n    at Function.<anonymous> (C:\\Users\\olami\\OneDrive\\Desktop\\fastworkshopproject\\eshop-admin-backend\\src\\models\\AdminUser.ts:23:69)\n    at Generator.next (<anonymous>)\n    at C:\\Users\\olami\\OneDrive\\Desktop\\fastworkshopproject\\eshop-admin-backend\\src\\models\\AdminUser.ts:8:71\n    at new Promise (<anonymous>)\n    at __awaiter (C:\\Users\\olami\\OneDrive\\Desktop\\fastworkshopproject\\eshop-admin-backend\\src\\models\\AdminUser.ts:4:12)\n    at Function.create (C:\\Users\\olami\\OneDrive\\Desktop\\fastworkshopproject\\eshop-admin-backend\\src\\models\\AdminUser.ts:24:16)\n    at C:\\Users\\olami\\OneDrive\\Desktop\\fastworkshopproject\\eshop-admin-backend\\src\\controllers\\AdminUserController.ts:21:41\n    at Generator.next (<anonymous>)\n    at C:\\Users\\olami\\OneDrive\\Desktop\\fastworkshopproject\\eshop-admin-backend\\src\\controllers\\AdminUserController.ts:8:71\n    at new Promise (<anonymous>)","timestamp":"2023-12-02 2:40:56 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-02 2:42:09 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-02 2:47:44 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-02 2:54:35 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-02 2:55:54 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-02 3:36:38 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-02 3:39:22 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-02 3:39:45 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-02 3:39:53 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-02 3:41:34 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-02 3:44:25 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-02 3:44:55 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-02 3:51:45 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-02 3:51:50 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-02 3:52:27 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-02 3:53:07 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-02 3:53:38 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-02 3:54:00 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-02 3:57:19 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-02 4:05:46 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-02 4:08:09 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-02 4:13:37 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-02 4:14:25 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-02 4:14:57 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-02 4:15:32 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-02 4:16:02 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-02 4:17:23 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-02 4:18:05 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-02 4:19:35 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-02 4:21:56 PM"}
+[31merror[39m: Error creating user: Column count doesn't match value count at row 1 {"code":"ER_WRONG_VALUE_COUNT_ON_ROW","errno":1136,"sql":"INSERT INTO admin_users (firstName, lastName, email, password) VALUES (?, ?)","sqlMessage":"Column count doesn't match value count at row 1","sqlState":"21S01","stack":"Error: Column count doesn't match value count at row 1\n    at PromisePool.execute (C:\\Users\\olami\\OneDrive\\Desktop\\fastworkshopproject\\eshop-admin-backend\\node_modules\\mysql2\\promise.js:374:22)\n    at Function.<anonymous> (C:\\Users\\olami\\OneDrive\\Desktop\\fastworkshopproject\\eshop-admin-backend\\src\\models\\AdminUser.ts:17:46)\n    at Generator.next (<anonymous>)\n    at fulfilled (C:\\Users\\olami\\OneDrive\\Desktop\\fastworkshopproject\\eshop-admin-backend\\src\\models\\AdminUser.ts:5:58)","timestamp":"2023-12-02 4:22:44 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-02 4:23:22 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-02 4:33:38 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-02 4:33:51 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-02 4:36:28 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-02 4:40:47 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-02 4:43:16 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-02 4:45:44 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-02 4:50:57 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-02 4:52:12 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-02 4:52:51 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-02 5:17:15 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-02 5:23:14 PM"}
+[31merror[39m: Error finding user: User not found. No result or empty result array {"timestamp":"2023-12-02 5:23:15 PM"}
+[31merror[39m: Error finding user: User not found. No result or empty result array {"timestamp":"2023-12-02 5:23:30 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-02 5:24:19 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-02 5:25:25 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-02 5:34:37 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-02 5:36:22 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-02 5:36:39 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-02 5:36:50 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-03 2:19:18 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-03 2:30:08 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-03 2:32:20 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-03 2:33:59 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-03 2:35:04 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-03 2:41:07 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-03 2:45:19 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-03 2:55:58 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-03 3:00:51 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-03 3:13:39 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-03 3:13:56 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-03 3:17:17 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-03 3:17:37 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-03 3:18:04 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-03 3:18:36 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-03 3:19:11 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-03 3:19:34 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-03 3:23:21 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-03 3:25:00 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-03 3:25:37 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-03 3:36:34 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-03 3:37:17 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-03 3:37:46 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-03 3:38:18 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-03 3:38:48 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-03 3:40:38 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-03 3:42:26 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-03 3:43:55 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-03 3:47:09 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-03 3:50:31 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-03 3:50:50 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-03 3:51:43 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-03 3:52:35 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-03 3:52:56 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-03 3:53:08 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-03 3:53:23 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-03 3:55:52 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-03 4:02:16 PM"}
+[31merror[39m: Error finding user : User not found. No result or empty result array {"timestamp":"2023-12-03 4:02:23 PM"}
+[31merror[39m: Error finding user : User not found. No result or empty result array {"timestamp":"2023-12-03 4:02:38 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-03 4:03:31 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-03 4:06:35 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-03 4:09:28 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-03 4:14:29 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-03 4:14:42 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-03 4:14:56 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-03 4:20:24 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-04 8:46:50 AM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-04 8:48:17 AM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-04 8:49:41 AM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-04 8:51:39 AM"}
+[31merror[39m: User with this email already exists {"timestamp":"2023-12-04 8:52:39 AM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-04 8:54:58 AM"}
+[31merror[39m: User with this email already exists {"timestamp":"2023-12-04 8:55:01 AM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-04 8:58:07 AM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-04 8:58:59 AM"}
+[31merror[39m: Error creating user: No result or empty result array {"timestamp":"2023-12-04 8:59:01 AM"}
+[31merror[39m: User with this email already exists {"timestamp":"2023-12-04 8:59:31 AM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-04 9:00:38 AM"}
+[31merror[39m: User with this email already exists {"timestamp":"2023-12-04 9:02:45 AM"}
+[31merror[39m: User with this email already exists {"timestamp":"2023-12-04 9:03:10 AM"}
+[31merror[39m: User with this email already exists {"timestamp":"2023-12-04 9:03:42 AM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-04 9:06:42 AM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-04 9:07:27 AM"}
+[31merror[39m: User with this email already exists {"timestamp":"2023-12-04 9:07:31 AM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-04 9:08:20 AM"}
+[31merror[39m: User with this email already exists {"timestamp":"2023-12-04 9:08:21 AM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-04 9:12:18 AM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-04 9:12:44 AM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-04 9:14:00 AM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-04 9:15:37 AM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-04 9:16:24 AM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-04 9:20:42 AM"}
+[31merror[39m: User with this email already exists {"timestamp":"2023-12-04 9:22:59 AM"}
+[31merror[39m: User with this email already exists {"timestamp":"2023-12-04 9:23:23 AM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-04 9:24:45 AM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-04 9:24:58 AM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-04 9:27:00 AM"}
+[31merror[39m: User with this email already exists {"timestamp":"2023-12-04 9:27:02 AM"}
+[31merror[39m: User with this email already exists {"timestamp":"2023-12-04 9:27:04 AM"}
+[31merror[39m: User with this email already exists {"timestamp":"2023-12-04 9:27:18 AM"}
+[31merror[39m: User with this email already exists {"timestamp":"2023-12-04 9:55:13 AM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-04 9:56:26 AM"}
+[31merror[39m: User with this email already exists {"timestamp":"2023-12-04 9:56:27 AM"}
+[31merror[39m: User with this email already exists {"timestamp":"2023-12-04 9:56:47 AM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-04 9:57:07 AM"}
+[31merror[39m: User with this email already exists {"timestamp":"2023-12-04 9:57:09 AM"}
+[31merror[39m: User with this email already exists {"timestamp":"2023-12-04 9:57:24 AM"}
+[31merror[39m: User with this email already exists {"timestamp":"2023-12-04 9:59:11 AM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-04 10:01:54 AM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-04 10:02:05 AM"}
+[31merror[39m: User with this email already exists {"timestamp":"2023-12-04 10:02:20 AM"}
+[31merror[39m: User with this email already exists {"timestamp":"2023-12-04 10:02:26 AM"}
+[31merror[39m: User with this email already exists {"timestamp":"2023-12-04 10:02:34 AM"}
+[31merror[39m: User with this email already exists {"timestamp":"2023-12-04 10:12:18 AM"}
+[31merror[39m: Error finding user : User not found. No result or empty result array {"timestamp":"2023-12-04 12:14:46 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-04 12:15:56 PM"}
+[31merror[39m: Error finding user : User not found. No result or empty result array {"timestamp":"2023-12-04 12:15:58 PM"}
+[31merror[39m: Error finding user : User not found. No result or empty result array {"timestamp":"2023-12-04 12:17:01 PM"}
+[31merror[39m: Error finding user : User not found. No result or empty result array {"timestamp":"2023-12-04 12:17:07 PM"}
+[31merror[39m: Error finding user : User not found. No result or empty result array {"timestamp":"2023-12-04 12:41:41 PM"}
+[31merror[39m: Error finding user : User not found. No result or empty result array {"timestamp":"2023-12-04 1:04:55 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-04 1:14:24 PM"}
+[31merror[39m: Error finding user : User not found. No result or empty result array {"timestamp":"2023-12-08 3:51:30 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-08 4:35:52 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-08 4:36:26 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-08 4:37:34 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-08 4:41:14 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-08 6:40:30 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-09 3:44:42 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-11 7:54:45 PM"}
+[31merror[39m: Error finding user : User not found. No result or empty result array {"timestamp":"2023-12-11 7:58:22 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-11 8:06:25 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-11 8:06:40 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-11 8:06:47 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-11 8:07:17 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-11 8:07:26 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-11 8:07:46 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-11 8:08:10 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-11 8:08:50 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-11 8:09:08 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-11 8:10:05 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-11 8:11:14 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-11 8:12:05 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-11 8:12:44 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-11 8:14:03 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-11 8:17:47 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-11 8:18:37 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-11 8:18:54 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-11 8:23:42 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-11 8:24:30 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-11 8:30:30 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-11 8:32:10 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-11 8:41:22 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-11 8:42:47 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-11 8:43:43 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-11 8:44:47 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-11 8:45:43 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-11 8:48:59 PM"}
+[31merror[39m: Duplicate category: No result or empty result array {"timestamp":"2023-12-11 8:49:37 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-11 8:49:55 PM"}
+[31merror[39m: Duplicate category: No result or empty result array {"timestamp":"2023-12-11 8:50:05 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-11 8:51:14 PM"}
+[31merror[39m: Duplicate category: No result or empty result array {"timestamp":"2023-12-11 8:51:16 PM"}
+[31merror[39m: Duplicate category: No result or empty result array {"timestamp":"2023-12-11 8:51:22 PM"}
+[31merror[39m: Duplicate category: No result or empty result array {"timestamp":"2023-12-11 9:01:05 PM"}
+[31merror[39m: Duplicate category: No result or empty result array {"timestamp":"2023-12-11 9:01:10 PM"}
+[31merror[39m: Duplicate category: No result or empty result array {"timestamp":"2023-12-11 9:01:11 PM"}
+[31merror[39m: Duplicate category: No result or empty result array {"timestamp":"2023-12-11 9:01:19 PM"}
+[31merror[39m: Duplicate category: No result or empty result array {"timestamp":"2023-12-11 9:04:32 PM"}
+[31merror[39m: Duplicate category: No result or empty result array {"timestamp":"2023-12-11 9:04:36 PM"}
+[31merror[39m: Duplicate category: No result or empty result array {"timestamp":"2023-12-11 9:04:52 PM"}
+[31merror[39m: Duplicate category: No result or empty result array {"timestamp":"2023-12-11 9:04:56 PM"}
+[31merror[39m: Duplicate category: No result or empty result array {"timestamp":"2023-12-11 9:05:06 PM"}
+[31merror[39m: Duplicate category: No result or empty result array {"timestamp":"2023-12-11 9:05:10 PM"}
+[31merror[39m: Duplicate category: No result or empty result array {"timestamp":"2023-12-11 9:05:22 PM"}
+[31merror[39m: Duplicate category: No result or empty result array {"timestamp":"2023-12-11 9:05:55 PM"}
+[31merror[39m: Duplicate category: No result or empty result array {"timestamp":"2023-12-11 9:06:04 PM"}
+[31merror[39m: Duplicate category: No result or empty result array {"timestamp":"2023-12-11 9:34:54 PM"}
+[31merror[39m: Duplicate category: No result or empty result array {"timestamp":"2023-12-11 9:35:05 PM"}
+[31merror[39m: Duplicate category: No result or empty result array {"timestamp":"2023-12-11 9:35:12 PM"}
+[31merror[39m: Duplicate category: No result or empty result array {"timestamp":"2023-12-11 9:35:44 PM"}
+[31merror[39m: Duplicate category: No result or empty result array {"timestamp":"2023-12-11 9:36:15 PM"}
+[31merror[39m: Duplicate category: No result or empty result array {"timestamp":"2023-12-11 9:36:30 PM"}
+[31merror[39m: Duplicate category: No result or empty result array {"timestamp":"2023-12-11 9:36:40 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-11 9:40:38 PM"}
+[31merror[39m: Duplicate category: No result or empty result array {"timestamp":"2023-12-11 9:42:03 PM"}
+[31merror[39m: Duplicate category: No result or empty result array {"timestamp":"2023-12-11 9:42:10 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-11 9:46:29 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-11 9:49:33 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-11 9:57:31 PM"}
+[31merror[39m: Duplicate category: No result or empty result array {"timestamp":"2023-12-11 10:21:11 PM"}
+[31merror[39m: Duplicate category: No result or empty result array {"timestamp":"2023-12-11 10:21:13 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-11 11:25:47 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-11 11:26:45 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-11 11:32:36 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-11 11:33:28 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-11 11:34:05 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-11 11:34:13 PM"}
+[31merror[39m: Duplicate category: No result or empty result array {"timestamp":"2023-12-11 11:37:41 PM"}
+[31merror[39m: Duplicate category: No result or empty result array {"timestamp":"2023-12-11 11:37:44 PM"}
+[31merror[39m: Duplicate category: No result or empty result array {"timestamp":"2023-12-11 11:44:50 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-11 11:53:31 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-11 11:54:01 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-11 11:54:06 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-11 11:55:08 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-11 11:58:32 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-12 12:02:49 AM"}
+[31merror[39m: Error Updating category (/admin/edit/category): Bind parameters must not contain undefined. To pass SQL NULL specify JS null {"stack":"Error: Bind parameters must not contain undefined. To pass SQL NULL specify JS null\n    at PromisePool.execute (C:\\Users\\olami\\OneDrive\\Desktop\\fastworkshopproject\\eshop-admin-backend\\node_modules\\mysql2\\promise.js:374:22)\n    at Function.<anonymous> (C:\\Users\\olami\\OneDrive\\Desktop\\fastworkshopproject\\eshop-admin-backend\\src\\models\\Category.ts:119:45)\n    at Generator.next (<anonymous>)\n    at C:\\Users\\olami\\OneDrive\\Desktop\\fastworkshopproject\\eshop-admin-backend\\src\\models\\Category.ts:8:71\n    at new Promise (<anonymous>)\n    at __awaiter (C:\\Users\\olami\\OneDrive\\Desktop\\fastworkshopproject\\eshop-admin-backend\\src\\models\\Category.ts:4:12)\n    at Function.editCategory (C:\\Users\\olami\\OneDrive\\Desktop\\fastworkshopproject\\eshop-admin-backend\\src\\models\\Category.ts:112:16)\n    at C:\\Users\\olami\\OneDrive\\Desktop\\fastworkshopproject\\eshop-admin-backend\\src\\controllers\\categoryController.ts:90:53\n    at Generator.next (<anonymous>)\n    at fulfilled (C:\\Users\\olami\\OneDrive\\Desktop\\fastworkshopproject\\eshop-admin-backend\\src\\controllers\\categoryController.ts:5:58)","timestamp":"2023-12-12 12:03:12 AM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-12 12:04:43 AM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-12 12:11:45 AM"}
+[31merror[39m: Duplicate category: No result or empty result array {"timestamp":"2023-12-12 12:12:16 AM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-12 7:44:50 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-12 8:40:06 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-12 8:48:06 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-12 8:48:41 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-12 8:49:13 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-12 8:52:58 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-12 8:58:19 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-12 9:02:41 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-12 9:03:56 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-12 9:12:18 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-12 9:13:54 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-12 9:14:39 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-12 9:21:30 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-12 9:47:07 PM"}
+[31merror[39m: Error finding user : User not found. No result or empty result array {"timestamp":"2023-12-12 9:50:01 PM"}
+[31merror[39m: Error fetching admin users: Table 'eshop_ecommerce.product_category' doesn't exist {"code":"ER_NO_SUCH_TABLE","errno":1146,"sql":"SELECT * FROM product_category","sqlMessage":"Table 'eshop_ecommerce.product_category' doesn't exist","sqlState":"42S02","stack":"Error: Table 'eshop_ecommerce.product_category' doesn't exist\n    at PromisePool.execute (C:\\Users\\olami\\OneDrive\\Desktop\\fastworkshopproject\\eshop-admin-backend\\node_modules\\mysql2\\promise.js:374:22)\n    at Function.<anonymous> (C:\\Users\\olami\\OneDrive\\Desktop\\fastworkshopproject\\eshop-admin-backend\\src\\models\\Category.ts:34:50)\n    at Generator.next (<anonymous>)\n    at C:\\Users\\olami\\OneDrive\\Desktop\\fastworkshopproject\\eshop-admin-backend\\src\\models\\Category.ts:8:71\n    at new Promise (<anonymous>)\n    at __awaiter (C:\\Users\\olami\\OneDrive\\Desktop\\fastworkshopproject\\eshop-admin-backend\\src\\models\\Category.ts:4:12)\n    at Function.getallCategory (C:\\Users\\olami\\OneDrive\\Desktop\\fastworkshopproject\\eshop-admin-backend\\src\\models\\Category.ts:36:16)\n    at C:\\Users\\olami\\OneDrive\\Desktop\\fastworkshopproject\\eshop-admin-backend\\src\\controllers\\categoryController.ts:30:48\n    at Generator.next (<anonymous>)\n    at C:\\Users\\olami\\OneDrive\\Desktop\\fastworkshopproject\\eshop-admin-backend\\src\\controllers\\categoryController.ts:8:71","timestamp":"2023-12-12 9:51:30 PM"}
+[31merror[39m: Error fetching admin users: Table 'eshop_ecommerce.product_category' doesn't exist {"code":"ER_NO_SUCH_TABLE","errno":1146,"sql":"SELECT * FROM product_category","sqlMessage":"Table 'eshop_ecommerce.product_category' doesn't exist","sqlState":"42S02","stack":"Error: Table 'eshop_ecommerce.product_category' doesn't exist\n    at PromisePool.execute (C:\\Users\\olami\\OneDrive\\Desktop\\fastworkshopproject\\eshop-admin-backend\\node_modules\\mysql2\\promise.js:374:22)\n    at Function.<anonymous> (C:\\Users\\olami\\OneDrive\\Desktop\\fastworkshopproject\\eshop-admin-backend\\src\\models\\Category.ts:34:50)\n    at Generator.next (<anonymous>)\n    at C:\\Users\\olami\\OneDrive\\Desktop\\fastworkshopproject\\eshop-admin-backend\\src\\models\\Category.ts:8:71\n    at new Promise (<anonymous>)\n    at __awaiter (C:\\Users\\olami\\OneDrive\\Desktop\\fastworkshopproject\\eshop-admin-backend\\src\\models\\Category.ts:4:12)\n    at Function.getallCategory (C:\\Users\\olami\\OneDrive\\Desktop\\fastworkshopproject\\eshop-admin-backend\\src\\models\\Category.ts:36:16)\n    at C:\\Users\\olami\\OneDrive\\Desktop\\fastworkshopproject\\eshop-admin-backend\\src\\controllers\\categoryController.ts:30:48\n    at Generator.next (<anonymous>)\n    at C:\\Users\\olami\\OneDrive\\Desktop\\fastworkshopproject\\eshop-admin-backend\\src\\controllers\\categoryController.ts:8:71","timestamp":"2023-12-12 9:51:30 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-12 9:52:32 PM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-12 9:52:38 PM"}
+[31merror[39m: Error finding user : User not found. No result or empty result array {"timestamp":"2023-12-13 2:17:37 AM"}
+[31merror[39m: Error finding user : User not found. No result or empty result array {"timestamp":"2023-12-13 2:23:43 AM"}
+[31merror[39m: Error finding user : User not found. No result or empty result array {"timestamp":"2023-12-13 2:27:04 AM"}
+[32minfo[39m: Server listening at http://localhost:5656 and 192.168.56.1:5656 {"timestamp":"2023-12-13 2:35:01 AM"}
+[31merror[39m: Error finding user : User not found. No result or empty result array {"timestamp":"2023-12-13 2:37:25 AM"}
+[31merror[39m: Error finding user : User not found. No result or empty result array {"timestamp":"2023-12-13 2:38:56 AM"}
+[31merror[39m: Error finding user : User not found. No result or empty result array {"timestamp":"2023-12-13 2:39:02 AM"}
+[31merror[39m: Error finding user : User not found. No result or empty result array {"timestamp":"2023-12-13 2:39:37 AM"}
+[31merror[39m: Error finding user : User not found. No result or empty result array {"timestamp":"2023-12-13 2:39:43 AM"}
+[31merror[39m: Error finding user : User not found. No result or empty result array {"timestamp":"2023-12-13 2:39:49 AM"}
