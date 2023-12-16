@@ -42,8 +42,6 @@ class categoryController {
   async saveCategory(req: Request, res: Response): Promise<void> {
 
     const { product_category, ...extraFields } = req.body;
-    console.log(product_category);
-
     // Check if there are any extra fields
     if (Object.keys(extraFields).length > 0) {
       res.status(400).json({ error: 'Invalid data passed to the request body' });
@@ -62,7 +60,7 @@ class categoryController {
         if (categoryResponse.status === true) {
 
             // Notify connected clients about the new product
-        socketIo.emit('newProduct', { productId: '123', message: 'New product available' });
+        socketIo.emit('category', { message: 'New category is available. Reload page to get latest update' });
         res.status(200).json( categoryResponse );
         } else {
         res.status(200).json({ error: 'Failed to insert category' });
